@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-docker build -t DockerhubAccount/fedora
+docker build -t DockerhubAccount/fedora .
 ```
 
 ##
